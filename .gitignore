@@ -142,4 +142,3 @@ artifacts/pickle_format_data/img_PICKLE_file.pkl
 /new_dataset
 /artifacts
 YOLOv5_DeepSort_Tracking.ipynb
-runs\detect
